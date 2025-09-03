@@ -49,13 +49,10 @@ Batch #1
 [ PersonalLockerModule ] successfully deployed 🚀  
 
 Deployed Addresses  
-PersonalLockerModule#PersonalLocker - 0x5FbDB2315678afecb367f032d93F642f64180aa3
+PersonalLockerModule#PersonalLocker - xxxxx
 Sepolia Deployment
 Deployed contract on Sepolia via Infura endpoint.
 
-Updated message to “Assignment Completed” on Sepolia.
-
-Console Output:
 
 ```
 
